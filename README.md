@@ -1,5 +1,7 @@
 # netflix_analysis
 this project provides EDA performed on netflix data
+
+
 INFERENCE DISCOVERED :-
 * There were less Tv shows as compared to movies. (Higher variation especially in India than US)
 * Most of the viewers content is for adult followed by teen and kids.
