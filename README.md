@@ -1,4 +1,4 @@
-# netflix_analysis
+# Data Analysis on Netflix Dataset
 #### this project provides EDA performed on netflix data
 
 
